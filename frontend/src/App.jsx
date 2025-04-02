@@ -3,9 +3,10 @@ import './App.css'
 
 function App() {
 
+
   return (
     <>
-      <div>Hello rushi</div>
+      <div className='text-5xl text-blue-400'>Hello rushi</div>
     </>
   )
 }
